@@ -1,18 +1,21 @@
-<!-- hide -->
 # The Postcard
-<!-- endhide -->
 
-Postcard created with HTML5 and CSS3
+A digital postcard layout built with HTML5 and CSS3 as a front-end exercise.
 
-<onlyfor saas="false" withBanner="false">
 
-This exercise includes: 
+## ✨ Features
+Basic structure for an HTML5 webpage
+Integration of Google Fonts
+Use of various CSS3 selectors
+Layout using containers and boxes (border, padding, margin)
+Overflow handling
+A simple, styled form included
 
-1. Basic structure for every HTML5 website.   
-2. Use of google fonts.  
-3. Using the different selectors available in CSS3.  
-4. Work with containers or boxes: border, padding, and margins.  
-5. Overflow.  
-6. Using a simple form.  
+## 🛠️ Technologies
+HTML5
+CSS3
 
+## 📌 Notes
+Front-end only — no JavaScript or backend logic
+Created as a practice exercise
 
