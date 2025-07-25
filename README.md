@@ -1,6 +1,7 @@
 # The Postcard
 
 <p>A digital postcard layout built with HTML5 and CSS3 as a front-end exercise.</p>
+<p>Test it here! ➡️ comicsanx.github.io/Postcard/</p>
 
 
 ## ✨ Features
